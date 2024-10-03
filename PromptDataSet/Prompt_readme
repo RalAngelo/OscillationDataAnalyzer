@@ -1,0 +1,5 @@
+PROSPECT Prompt distribution
+Data are reported a spectrum for every active segment
+Prompt Energy contains 16 bins from 0.8 to 7.2MeV (400kEv bin width)
+Errors given in these table are reflected in #1.2_Osc_CovarianceMatrix
+Bin Center, Background subtracted IBD counts, Total Stats Error, Background Spectrum counts, Background Stats Error
