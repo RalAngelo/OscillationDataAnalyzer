@@ -32,8 +32,8 @@ To run this project, you need the following installed on your system:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your_username/oscillation-analyzer.git
-    cd oscillation-analyzer
+    git clone https://github.com/RalAngelo/OscillationDataAnalyzer
+    cd OscillationDataAnalyzer
     ```
 
 2. Make sure you have ROOT installed. You can check by running:
