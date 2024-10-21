@@ -78,7 +78,4 @@ The code consists of the following steps:
 
 Feel free to fork the project, create issues, or submit pull requests if you have ideas for improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License.
 
